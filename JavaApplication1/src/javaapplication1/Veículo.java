@@ -14,4 +14,5 @@ public class Veículo {
     private String cor;
     private String placa;
     private Modelo modelo;
+    private Seguro seguro;
 }

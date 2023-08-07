@@ -15,4 +15,5 @@ public class Seguro {
     private boolean vigencia;
     private Cliente proprietario;
     private ArrayList<Cliente> assegurados = new ArrayList<Cliente>();
+    private Veículo carro;
 }

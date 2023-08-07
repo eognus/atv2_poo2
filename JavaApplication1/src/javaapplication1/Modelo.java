@@ -9,5 +9,5 @@ package javaapplication1;
  * @author alunolab08
  */
 public class Modelo {
-    String nome;
+    private String nome;
 }

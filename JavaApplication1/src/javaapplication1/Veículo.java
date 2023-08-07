@@ -9,9 +9,9 @@ package javaapplication1;
  * @author alunolab08
  */
 public class Veículo {
-    int ano;
-    String marca;
-    String cor;
-    String placa;
-    Modelo modelo;
+    private int ano;
+    private String marca;
+    private String cor;
+    private String placa;
+    private Modelo modelo;
 }

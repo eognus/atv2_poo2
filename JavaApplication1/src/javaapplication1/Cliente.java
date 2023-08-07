@@ -9,7 +9,7 @@ package javaapplication1;
  * @author alunolab08
  */
 public class Cliente {
-    String nome;
-    String cpf;
-    Seguro seguro;
+    private String nome;
+    private String cpf;
+    private Seguro seguro;
 }

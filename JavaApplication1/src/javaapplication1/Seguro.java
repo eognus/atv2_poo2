@@ -11,8 +11,8 @@ import java.util.ArrayList;
  * @author alunolab08
  */
 public class Seguro {
-    int valor;
-    boolean vigencia;
-    Cliente proprietario;
-    ArrayList<Cliente> assegurados = new ArrayList<Cliente>();
+    private int valor;
+    private boolean vigencia;
+    private Cliente proprietario;
+    private ArrayList<Cliente> assegurados = new ArrayList<Cliente>();
 }
